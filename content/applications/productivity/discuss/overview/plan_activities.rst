@@ -19,7 +19,7 @@ Access and manage your activities wherever you are in Odoo by the *Activities* m
 Plan activities
 ===============
 
-Activities can be planned and managed from the chatter by clicking on *Schedule activity*,
+Activities can be planned and managed from the chatter by clicking on *activity* tap,
 or through Kanban views.
 
 .. image:: plan_activities/schedule_activity.png
@@ -31,7 +31,7 @@ Set your activity types
 -----------------------
 
 A number of activities types are available by default in Odoo (call, email, meeting, etc.). However,
-you can set new ones going to :menuselection:`Settings --> Activity types`.
+you can set new ones going to :menuselection:`Configuration --> Activity types`.
 
 .. image:: plan_activities/settings_activities_types.png
    :align: center
